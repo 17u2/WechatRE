@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d mesej belum dibaca</item>
+        <item quantity="one">%d mesej belum dibaca</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%d mesej belum dibaca</item>
+        <item quantity="one">%d mesej belum dibaca</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Tab %2$d daripada %1$d</item>
+        <item quantity="zero">Tab 1 daripada %d</item>
+        <item quantity="one">Tab 2 daripada %d</item>
+        <item quantity="two">Tab 3 daripada %d</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Suara %d saat</item>
+        <item quantity="one">Suara %d saat</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">Rakan %1$d menghantar anda %2$d mesej</item>
+        <item quantity="one">Rakan %1$d menghantar anda %2$d mesej</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">[%d]</item>
+        <item quantity="one">[%d]</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">%d botol telah dibalas</item>
+        <item quantity="one">%d botol telah dibalas</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">SMS anda seharusnya diterima dalam tempoh %d saat.</item>
+        <item quantity="one">SMS anda seharusnya diterima dalam tempoh %d saat.</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">Tinggal %d saat</item>
+        <item quantity="one">Tinggal %d saat</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d kenalan</item>
+        <item quantity="one">%d kenalan</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%d kumpulan</item>
+        <item quantity="one">%d kumpulan</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%d rakan pada WeChat</item>
+        <item quantity="one">%d rakan pada WeChat</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">%d kenalan ditemui</item>
+        <item quantity="one">%d kenalan ditemui</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">%d rakan ditambah</item>
+        <item quantity="one">%d rakan ditambah</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%d jemputan dihantar</item>
+        <item quantity="one">%d jemputan dihantar</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Anda menjemput %d rakan ke WeChat</item>
+        <item quantity="one">Anda menjemput %d rakan ke WeChat</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%s penerima:</item>
+        <item quantity="one">%s penerima:</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">Anda menghantar mesej kepada %s rakan:</item>
+        <item quantity="one">Anda menghantar mesej kepada %s rakan:</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">%1$d lampiran (%2$s)</item>
+        <item quantity="one">%1$d lampiran (%2$s)</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%s mesej</item>
+        <item quantity="one">%s mesej</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">%d members</item>
+        <item quantity="one">%d member</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">%d ucapan baru</item>
+        <item quantity="one">%d ucapan baru</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">Sehingga %s foto boleh dipilih</item>
+        <item quantity="one">Sehingga %s foto boleh dipilih</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">Sehingga %s video boleh dipilih</item>
+        <item quantity="one">Sehingga %s video boleh dipilih</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">Pilih sehingga %s imej-imej atau video-video</item>
+        <item quantity="one">Pilih sehingga %s imej atau video</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">Lokasi Masa sebenar (%d)</item>
+        <item quantity="one">Lokasi Masa sebenar (%d)</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="other">%d minit lalu</item>
+        <item quantity="one">%d minit lalu</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="other">%d jam lalu</item>
+        <item quantity="one">%d jam lalu</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d hari lalu</item>
+        <item quantity="one">%d hari lalu</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">%d kenalan ditambah</item>
+        <item quantity="one">%d kenalan ditambah</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">%s kenalan diedit</item>
+        <item quantity="one">%s kenalan diedit</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">%d kenalan ditambah</item>
+        <item quantity="one">%d kenalan ditambah</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">%d siaran</item>
+        <item quantity="one">%d siaran</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">%d mesej baru</item>
+        <item quantity="one">%d mesej baru</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">%d siaran</item>
+        <item quantity="one">%d siaran</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">Tinggal %s saat</item>
+        <item quantity="one">Tinggal %s saat</item>
+    </plurals>
+</resources>

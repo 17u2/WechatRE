@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Error de Google Play Services</string>
+    <string name="b">Una aplicación requiere que se instale Google Play Services</string>
+    <string name="c">Una aplicación requiere que se actualice Google Play Services</string>
+    <string name="d">Una aplicación requiere que se habilite Google Play Services</string>
+    <string name="e">Solicitada por %1$s</string>
+    <string name="f">Obtener Google Play Services</string>
+    <string name="g">Esta aplicación no se ejecutará si no instalasGoogle Play Services en tu dispositivo.</string>
+    <string name="h">Esta aplicación no se ejecutará si no instalas Google Play Services en tu tablet.</string>
+    <string name="i">Descargar Google Play Services</string>
+    <string name="j">Activar Google Play Services</string>
+    <string name="k">Esta aplicación no funcionará si no activas Google Play Services.</string>
+    <string name="l">Activar Google Play Services</string>
+    <string name="m">Actualizar Google Play Services</string>
+    <string name="n">Esta aplicación no se ejecutará si no actualizas Google Play Services.</string>
+    <string name="o">Error de red</string>
+    <string name="p">Se necesita una conexión de datos para establecer conexión con Google Play Services.</string>
+    <string name="q">Cuenta no válida</string>
+    <string name="r">La cuenta especificada no existe en este dispositivo. Elige otra cuenta.</string>
+    <string name="s">Error desconocido relacionado con Google Play Services</string>
+    <string name="t">Google Play Services</string>
+    <string name="u">Google Play Services, del cual dependen algunas de tus aplicaciones, no es compatible con tu dispositivo. Comunícate con el fabricante para obtener ayuda.</string>
+    <string name="v">Parece que la fecha del dispositivo es incorrecta. ¿Puedes revisarla?</string>
+    <string name="w">Actualizar</string>
+    <string name="x">Acceder</string>
+    <string name="y">Acceder con Google</string>
+</resources>

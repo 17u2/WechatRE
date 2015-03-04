@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Eroare a serviciilor Google Play</string>
+    <string name="b">O aplicație necesită instalarea serviciilor Google Play.</string>
+    <string name="c">O aplicație necesită o actualizare pentru serviciile Google Play.</string>
+    <string name="d">O aplicație necesită activarea serviciilor Google Play.</string>
+    <string name="e">Solicitată de %1$s</string>
+    <string name="f">Descărcaţi Servicii Google Play</string>
+    <string name="g">Această aplicaţie nu poate rula fără Servicii Google Play, care lipsesc de pe telefon.</string>
+    <string name="h">Această aplicaţie nu poate rula fără Servicii Google Play, care lipsesc de pe tabletă.</string>
+    <string name="i">Obţineţi Servicii Google Play</string>
+    <string name="j">Activaţi Servicii Google Play</string>
+    <string name="k">Această aplicaţie nu va funcţiona decât dacă activaţi Servicii Google Play.</string>
+    <string name="l">Activaţi Servicii Google Play</string>
+    <string name="m">Actualizaţi Servicii Google Play</string>
+    <string name="n">Această aplicaţie nu poate rula decât dacă actualizaţi Servicii Google Play.</string>
+    <string name="o">Eroare de reţea</string>
+    <string name="p">Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play.</string>
+    <string name="q">Cont nevalid</string>
+    <string name="r">Contul menționat nu există pe acest dispozitiv. Alegeți alt cont.</string>
+    <string name="s">Problemă necunoscută privind Servicii Google Play.</string>
+    <string name="t">Servicii Google Play</string>
+    <string name="u">Gadgetul nu acceptă serviciile Google Play, pe care se bazează unele dintre aplicații. Pentru asistență, contactați producătorul gadgetului.</string>
+    <string name="v">Data de pe dispozitiv pare să fie incorectă. Verificați data de pe dispozitiv.</string>
+    <string name="w">Actualizaţi</string>
+    <string name="x">Conectați</string>
+    <string name="y">Conectați-vă cu Google</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Error dels serveis de Google Play</string>
+    <string name="b">"Una aplicació requereix que s'instal·lin els serveis de Google Play."</string>
+    <string name="c">"Una aplicació requereix que s'actualitzin els serveis de Google Play."</string>
+    <string name="d">"Una aplicació requereix que s'activin els serveis de Google Play."</string>
+    <string name="e">Sol·licitada per %1$s</string>
+    <string name="f">Baixa els serveis de Google Play</string>
+    <string name="g">"Aquesta aplicació no s'executarà si el telèfon no té instal·lats els serveis de  Google Play."</string>
+    <string name="h">Aquesta aplicació no funcionarà si la tauleta no té instal·lats els serveis de Google Play.</string>
+    <string name="i">Baixa els serveis de Google Play</string>
+    <string name="j">Activa els serveis de Google Play</string>
+    <string name="k">Aquesta aplicació no funcionarà si no actives els serveis de Google Play.</string>
+    <string name="l">Activa els serveis de Google Play</string>
+    <string name="m">Actualitza els serveis de Google Play</string>
+    <string name="n">"Aquesta aplicació no s'executarà si no actualitzes els serveis de Google Play."</string>
+    <string name="o">Error de xarxa</string>
+    <string name="p">Es requereix una connexió de dades per connectar amb els serveis de Google Play.</string>
+    <string name="q">Compte no vàlid</string>
+    <string name="r">El compte especificat no existeix en aquest dispositiu. Tria un compte diferent.</string>
+    <string name="s">Error desconegut relacionat amb els serveis de Google Play.</string>
+    <string name="t">Serveis de Google Play</string>
+    <string name="u">El teu dispositiu no és compatible amb els serveis de Google Play, en què es basen les teves aplicacions. Per obtenir assistència, contacta amb el fabricant.</string>
+    <string name="v">Sembla que la data del dispositiu no és correcta. Comprova-la.</string>
+    <string name="w">Actualitza</string>
+    <string name="x">Inicia sessió</string>
+    <string name="y">Inicia sessió amb Google</string>
+</resources>

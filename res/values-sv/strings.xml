@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Fel på Google Play-tjänster</string>
+    <string name="b">Google Play-tjänster måste installeras för att en app ska fungera.</string>
+    <string name="c">Google Play-tjänster måste uppdateras för en app ska fungera.</string>
+    <string name="d">Google Play-tjänster måste aktiveras för att en app ska fungera.</string>
+    <string name="e">Begärdes av %1$s</string>
+    <string name="f">Hämta Google Play Tjänster</string>
+    <string name="g">Den här appen kan inte köras utan Google Play Tjänster, som saknas på mobilen.</string>
+    <string name="h">Den här appen kan inte köras utan Google Play Tjänster, som saknas på surfplattan.</string>
+    <string name="i">Hämta Google Play Tjänster</string>
+    <string name="j">Aktivera Google Play Tjänster</string>
+    <string name="k">Du måste aktivera Google Play Tjänster för att den här appen ska fungera.</string>
+    <string name="l">Aktivera Google Play Tjänster</string>
+    <string name="m">Uppdatera Google Play Tjänster</string>
+    <string name="n">Du måste uppdatera Google Play Tjänster innan du kan köra den här appen.</string>
+    <string name="o">Nätverksfel</string>
+    <string name="p">En dataanslutning krävs för att ansluta till Google Plays tjänster.</string>
+    <string name="q">Ogiltigt konto</string>
+    <string name="r">Det angivna kontot finns inte på den här enheten. Välj ett annat konto.</string>
+    <string name="s">Okänt problem med Google Play Tjänster</string>
+    <string name="t">Google Play-tjänster</string>
+    <string name="u">Några av dina appar använder Google Play-tjänster som inte stöds av din enhet. Kontakta tillverkaren om du vill ha hjälp.</string>
+    <string name="v">Datumet på enheten verkar inte vara rätt. Kontrollera datumet på enheten.</string>
+    <string name="w">Uppdatera</string>
+    <string name="x">Logga in</string>
+    <string name="y">Logga in med Google</string>
+</resources>

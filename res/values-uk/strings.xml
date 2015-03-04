@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Помилка сервісів Google Play</string>
+    <string name="b">Щоб додаток працював, потрібно встановити сервіси Google Play.</string>
+    <string name="c">Щоб додаток працював, потрібно оновити сервіси Google Play.</string>
+    <string name="d">Щоб додаток працював, потрібно ввімкнути сервіси Google Play.</string>
+    <string name="e">Запит від додатка %1$s</string>
+    <string name="f">Установити Google Play Послуги</string>
+    <string name="g">Ця програма не запуститься без Google Play Послуг, яких немає у вашому телефоні.</string>
+    <string name="h">Ця програма не запуститься без Google Play Послуг, яких немає на вашому планшетному ПК.</string>
+    <string name="i">Установити Google Play Послуги</string>
+    <string name="j">Увімкнути Google Play Послуги</string>
+    <string name="k">Ця програма не працюватиме, поки ви не ввімкнете Google Play Послуги.</string>
+    <string name="l">Увімкнути Google Play Послуги</string>
+    <string name="m">Оновити Google Play Послуги</string>
+    <string name="n">Ця програма не запуститься, поки ви не оновите Google Play Послуги.</string>
+    <string name="o">Помилка мережі</string>
+    <string name="p">Для під’єднання до сервісів Google Play потрібне з’єднання з мережею.</string>
+    <string name="q">Недійсний обліковий запис</string>
+    <string name="r">Указаний обліковий запис не існує на цьому пристрої. Виберіть інший обліковий запис.</string>
+    <string name="s">Google Play Послуги – невідома проблема.</string>
+    <string name="t">Сервіси Google Play</string>
+    <string name="u">Ваш пристрій не підтримує Сервіси Google Play, від яких залежить робота деяких програм. Зверніться по допомогу до виробника.</string>
+    <string name="v">Схоже, на пристрої вказано неправильну дату. Перевірте її.</string>
+    <string name="w">Оновити</string>
+    <string name="x">Увійти</string>
+    <string name="y">Увійти в обл.запис Google</string>
+</resources>

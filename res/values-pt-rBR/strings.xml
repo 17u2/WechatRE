@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Erro do Google Play Services</string>
+    <string name="b">Um aplicativo requer a instalação do Google Play Services.</string>
+    <string name="c">Um aplicativo requer a atualização do Google Play Services.</string>
+    <string name="d">Um aplicativo requer a ativação do Google Play Services.</string>
+    <string name="e">Solicitado por %1$s</string>
+    <string name="f">Instale o Google Play Services</string>
+    <string name="g">Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu telefone.</string>
+    <string name="h">Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu tablet.</string>
+    <string name="i">Instalar o Google Play Services</string>
+    <string name="j">Ative o Google Play Services</string>
+    <string name="k">Este aplicativo só funciona com o Google Play Services ativado.</string>
+    <string name="l">Ativar o Google Play Services</string>
+    <string name="m">Atualize o Google Play Services</string>
+    <string name="n">Este aplicativo só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="o">Erro na rede</string>
+    <string name="p">É necessária uma conexão de dados para conectar ao Google Play Services.</string>
+    <string name="q">Conta inválida</string>
+    <string name="r">A conta especificada não existe no dispositivo. Escolha outra conta.</string>
+    <string name="s">Problema desconhecido com o Google Play Services.</string>
+    <string name="t">Play Services</string>
+    <string name="u">O Google Play Services, necessário para alguns dos aplicativos, não é compatível com seu dispositivo. Entre em contato com o fabricante para obter assistência.</string>
+    <string name="v">A data no dispositivo parece incorreta. Verifique a data no dispositivo.</string>
+    <string name="w">Atualizar</string>
+    <string name="x">Login</string>
+    <string name="y">Fazer login com o Google</string>
+</resources>

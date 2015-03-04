@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Erro dos Serviços do Google Play</string>
+    <string name="b">Uma aplicação necessita da instalação dos Serviços do Google Play.</string>
+    <string name="c">Uma aplicação necessita da atualização dos Serviços do Google Play.</string>
+    <string name="d">Uma aplicação necessita da ativação dos Serviços do Google Play.</string>
+    <string name="e">Pedida por %1$s</string>
+    <string name="f">Obter serviços do Google Play</string>
+    <string name="g">Esta aplicação não será executada sem os serviços do Google Play, que estão em falta no seu telemóvel.</string>
+    <string name="h">Esta aplicação não será executada sem os serviços do Google Play, que estão em falta no seu tablet.</string>
+    <string name="i">Obter serviços do Google Play</string>
+    <string name="j">Ativar serviços do Google Play</string>
+    <string name="k">Esta aplicação não funcionará enquanto não ativar os serviços do Google Play.</string>
+    <string name="l">Ativar serviços do Google Play</string>
+    <string name="m">Atualizar serviços do Google Play</string>
+    <string name="n">Esta aplicação não será executada enquanto não atualizar os serviços do Google Play.</string>
+    <string name="o">Erro de Rede</string>
+    <string name="p">É necessária uma ligação de dados para se ligar aos Serviços do Google Play.</string>
+    <string name="q">Conta Inválida</string>
+    <string name="r">A conta especificada não existe neste dispositivo. Escolha uma conta diferente.</string>
+    <string name="s">Problema desconhecido nos serviços do Google Play.</string>
+    <string name="t">Serviços do Google Play</string>
+    <string name="u">Os serviços do Google Play, dos quais dependem algumas das suas aplicações, não são suportados pelo seu dispositivo. Contacte o fabricante para obter assistência.</string>
+    <string name="v">A data no dispositivo parece estar incorreta. Verifique a data no dispositivo.</string>
+    <string name="w">Atualizar</string>
+    <string name="x">Inic. ses.</string>
+    <string name="y">Inic. sessão com o Google</string>
+</resources>

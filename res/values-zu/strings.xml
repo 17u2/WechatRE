@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Iphutha lamasevisi we-Google Play</string>
+    <string name="b">Uhlelo lokusebenza ludinga ukufakwa kwamasevisi we-Google Play.</string>
+    <string name="c">Uhlelo lokusebenza ludinga isibuyekezo samasevisi we-Google Play.</string>
+    <string name="d">Uhlelo lokusebenza ludinga amasevisi we-Google Play ukuze anikwe amandla.</string>
+    <string name="e">Icelwe yi-%1$s</string>
+    <string name="f">Thola amasevisi e-Google Play</string>
+    <string name="g">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle kwamasevisi e-Google Play, angekho efonini yakho.</string>
+    <string name="h">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle kwamasevisi e-Google Play, angekho kuthebulethi yakho.</string>
+    <string name="i">Thola amasevisi e-Google Play</string>
+    <string name="j">Nika amandla amasevisi e-Google Play</string>
+    <string name="k">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle nje kokuthi unike amandla amasevisi e-Google Play.</string>
+    <string name="l">Nika amandla amasevisi e-Google Play</string>
+    <string name="m">Buyekeza amasevisi e-Google Play</string>
+    <string name="n">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle nje kokuthi ubuyekeze amasevisi e-Google Play.</string>
+    <string name="o">Iphutha lenethiwekhi</string>
+    <string name="p">Kudingeka ukuxhumeka kwedatha ukuze kuxhunyekwe kumasevisi we-Google Play.</string>
+    <string name="q">I-Akhawunti engavumelekile</string>
+    <string name="r">I-Akhawunti ecacisiwe ayikho kule divayisi. Sicela ukhethe i-akhawunti ehlukile.</string>
+    <string name="s">Indaba engaziwa yamasevisi we-Google Play</string>
+    <string name="t">Amasevisi we-Google Play</string>
+    <string name="u">Amasevisi we-Google Play, okungukuthi ezinye izinhlelo zakho zithembele kuwo, awasekelwe yidivayisi yakho. Sicela uxhumane nomkhiqizi ukuze uthole usizo.</string>
+    <string name="v">Idethi kudivayisi ibonakala ingalungile. Sicela uhlole idethi kudivayisi.</string>
+    <string name="w">Isibuyekezo</string>
+    <string name="x">Ngena ngemvume</string>
+    <string name="y">Ngena ngemvume nge-Google</string>
+</resources>

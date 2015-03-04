@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Грешка Google Play услуга</string>
+    <string name="b">Апликација захтева инсталацију Google Play услуга.</string>
+    <string name="c">Апликација захтева ажурирање Google Play услуга.</string>
+    <string name="d">Апликација захтева да Google Play услуге буду омогућене.</string>
+    <string name="e">Захтева %1$s</string>
+    <string name="f">Преузимање Google Play услуга</string>
+    <string name="g">Ова апликација не може да се покрене без Google Play услуга, које недостају на телефону.</string>
+    <string name="h">Ова апликација не може да се покрене без Google Play услуга, које недостају на таблету.</string>
+    <string name="i">Преузми Google Play услуге</string>
+    <string name="j">Омогућавање Google Play услуга</string>
+    <string name="k">Ова апликација неће функционисати ако не омогућите Google Play услуге.</string>
+    <string name="l">Омогући Google Play услуге</string>
+    <string name="m">Ажурирање Google Play услуга</string>
+    <string name="n">Ова апликација не може да се покрене ако не ажурирате Google Play услуге.</string>
+    <string name="o">Грешка на мрежи</string>
+    <string name="p">За повезивање са Google Play услугама потребна је веза за пренос података.</string>
+    <string name="q">Неважећи налог</string>
+    <string name="r">Наведени налог не постоји на овом уређају. Одаберите други налог.</string>
+    <string name="s">Непознат проблем са Google Play услугама.</string>
+    <string name="t">Google Play услуге</string>
+    <string name="u">Google Play услуге, које су потребне за функционисање неких од апликација, нису подржане на уређају. Контактирајте произвођача да бисте добили помоћ.</string>
+    <string name="v">Изгледа да су подаци на уређају нетачни. Проверите датум на уређају.</string>
+    <string name="w">Ажурирај</string>
+    <string name="x">Пријави ме</string>
+    <string name="y">Пријави ме преко Google-а</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="oh">r/g/oh.xml</item>
+    <item type="layout" name="u_">r/g/u_.xml</item>
+    <item type="layout" name="a7t">r/g/a7t.xml</item>
+    <item type="layout" name="a7u">r/g/a7u.xml</item>
+</resources>

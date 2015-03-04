@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Error sa Mga Serbisyo ng Google Play</string>
+    <string name="b">Kailangan ng application na i-install ang Mga Serbisyo ng Google Play.</string>
+    <string name="c">Kailangan ng application ng update sa Mga Serbisyo ng Google Play.</string>
+    <string name="d">Kailangan ng application na na-enable ang Mga Serbisyo ng Google Play.</string>
+    <string name="e">Hiniling ng %1$s</string>
+    <string name="f">Kumuha ng mga serbisyo ng Google Play</string>
+    <string name="g">Hindi tatakbo ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong telepono.</string>
+    <string name="h">Hindi gagana ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong tablet.</string>
+    <string name="i">Kumuha ng Google Play services</string>
+    <string name="j">Paganahin ang Google Play services</string>
+    <string name="k">Hindi gagana ang app na ito maliban kung papaganahin mo ang mga serbisyo ng Google Play.</string>
+    <string name="l">Enable Google Play services</string>
+    <string name="m">I-update ang mga serbisyo ng Google Play</string>
+    <string name="n">Hindi gagana ang app na ito maliban kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+    <string name="o">May Error sa Network</string>
+    <string name="p">Kailangan ng koneksyon ng data upang makakonekta sa mga serbisyo ng Google Play.</string>
+    <string name="q">Di-wasto ang Account</string>
+    <string name="r">Hindi umiiral ang tinukoy na account sa device na ito. Mangyaring pumili ng ibang account.</string>
+    <string name="s">May hindi alam na isyu sa mga serbisyo ng Google Play.</string>
+    <string name="t">Mga serbisyo ng Google Play</string>
+    <string name="u">Ang mga serbisyo ng Google Play, kung saan nakadepende ang ilan sa iyong mga application, ay hindi sinusuportahan ng iyong device. Mangyaring makipag-ugnay sa manufacturer para sa tulong.</string>
+    <string name="v">Mukhang hindi tama ang petsa sa device. Pakisuri ang petsa sa device.</string>
+    <string name="w">I-update</string>
+    <string name="x">Sign in</string>
+    <string name="y">Mag-sign in sa Google</string>
+</resources>

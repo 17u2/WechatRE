@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Chyba služieb Google Play</string>
+    <string name="b">Aplikácia vyžaduje inštaláciu služieb Google Play.</string>
+    <string name="c">Aplikácia vyžaduje aktualizáciu služieb Google Play.</string>
+    <string name="d">Aplikácia vyžaduje povolenie služieb Google Play.</string>
+    <string name="e">Vyžiadané aplikáciou %1$s</string>
+    <string name="f">Inštalovať služby Google Play</string>
+    <string name="g">Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v telefóne nemáte.</string>
+    <string name="h">Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v tablete nemáte.</string>
+    <string name="i">Inštalovať služby Google Play</string>
+    <string name="j">Povoliť služby Google Play</string>
+    <string name="k">Táto aplikácia bude fungovať až po povolení služieb Google Play.</string>
+    <string name="l">Povoliť služby Google Play</string>
+    <string name="m">Aktualizovať služby Google Play</string>
+    <string name="n">Túto aplikáciu bude možné spustiť až po aktualizácii služieb Google Play.</string>
+    <string name="o">Chyba siete</string>
+    <string name="p">Pripojenie k službám Google Play si vyžaduje dátové pripojenie.</string>
+    <string name="q">Neplatný účet</string>
+    <string name="r">Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet.</string>
+    <string name="s">Neznámy problém so službami Google Play.</string>
+    <string name="t">Služby Google Play</string>
+    <string name="u">Niektoré vaše aplikácie vyžadujú služby Google Play, ktoré vo vašom zariadení nie sú podporované. Ak potrebujete pomoc, kontaktujte výrobcu.</string>
+    <string name="v">Dátum nastavený v zariadení sa zdá byť nesprávny. Skontrolujte ho.</string>
+    <string name="w">Aktualizovať</string>
+    <string name="x">Prihlásiť sa</string>
+    <string name="y">Prihlásiť sa do účtu Google</string>
+</resources>

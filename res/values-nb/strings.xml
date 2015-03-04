@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Google Play Tjenester-feil</string>
+    <string name="b">En app krever installasjon av Google Play Tjenester.</string>
+    <string name="c">En app krever at Google Play Tjenester oppdateres.</string>
+    <string name="d">En app krever Google Play Tjenester for å aktiveres.</string>
+    <string name="e">Forespurt av %1$s</string>
+    <string name="f">Installer Google Play Tjenester</string>
+    <string name="g">Denne appen kan ikke kjøres uten Google Play Tjenester, som ikke er installert på telefonen din.</string>
+    <string name="h">Denne appen kan ikke kjøres uten Google Play Tjenester, som ikke er installert på nettbrettet ditt.</string>
+    <string name="i">Installer Google Play Tjenester</string>
+    <string name="j">Aktiver Google Play Tjenester</string>
+    <string name="k">Denne appen fungerer ikke med mindre du aktiverer Google Play Tjenester.</string>
+    <string name="l">Aktiver Google Play Tjenester</string>
+    <string name="m">Oppdater Google Play Tjenester</string>
+    <string name="n">Denne appen kan ikke kjøres før du oppdaterer Google Play Tjenester.</string>
+    <string name="o">Nettverksfeil</string>
+    <string name="p">Du må ha datatilkobling for å koble deg til Google Play-tjenester.</string>
+    <string name="q">Ugyldig konto</string>
+    <string name="r">Den angitte kontoen finnes ikke på enheten. Velg en annen konto.</string>
+    <string name="s">Det oppsto et ukjent problem med Google Play Tjenester.</string>
+    <string name="t">Google Play-tjenester</string>
+    <string name="u">Google Play Tjenester, som noen av appene er avhengige av, støttes ikke av enheten. Ta kontakt med produsenten for å få hjelp.</string>
+    <string name="v">Datoen på enheten ser ut til å være feil. Sjekk datoen på enheten.</string>
+    <string name="w">Oppdater</string>
+    <string name="x">Logg på</string>
+    <string name="y">Logg inn med Google</string>
+</resources>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Непрочитанных сообщений: %d</item>
+        <item quantity="one">%d непрочитанное сообщение</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">Непрочитанных сообщений: %d</item>
+        <item quantity="one">%d непрочитанное сообщение</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Вкладка %2$d из %1$d</item>
+        <item quantity="zero">Вкладка 1 из %d</item>
+        <item quantity="one">Вкладка 2 из %d</item>
+        <item quantity="two">Вкладка 3 из %d</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Голос %d сек.</item>
+        <item quantity="one">Голос %d сек.</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">%1$d друзей отправили вам %2$d сообщ.</item>
+        <item quantity="one">%1$d друг отправил вам %2$d сообщ.</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">[%d]</item>
+        <item quantity="one">[%d]</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">В %d бутылке новый ответ</item>
+        <item quantity="one">В %d бутылке новый ответ</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">SMS придет через %d с.</item>
+        <item quantity="one">SMS придет через %d с.</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">Осталось %d с.</item>
+        <item quantity="one">Осталось %d с.</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">контактов: %d</item>
+        <item quantity="one">контактов: %d</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%d группа</item>
+        <item quantity="one">%d группа</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%d друзей в WeChat</item>
+        <item quantity="one">%d друзей в WeChat</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">Найден контакт %d</item>
+        <item quantity="one">Найден контакт %d</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">Добавлен друг %d</item>
+        <item quantity="one">Добавлен друг %d</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">Приглашений отправлено: %d</item>
+        <item quantity="one">Приглашений отправлено: %d</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Вы приглашаете %d друзей в WeChat</item>
+        <item quantity="one">Вы приглашаете %d друзей в WeChat</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%s получатель:</item>
+        <item quantity="one">%s получатель:</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">Вы отправляете сообщение другу %s:</item>
+        <item quantity="one">Вы отправляете сообщение другу %s:</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">%1$d прикрепленных файлов (%2$s)</item>
+        <item quantity="one">%1$d прикрепленных файлов (%2$s)</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%s сообщений</item>
+        <item quantity="one">%s сообщение</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">%d members</item>
+        <item quantity="one">%d member</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">%d новое приветствие</item>
+        <item quantity="one">%d новое приветствие</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">Можно выбрать до %s фото</item>
+        <item quantity="one">Можно выбрать до %s фото</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">Можно выбрать до %s видео</item>
+        <item quantity="one">Можно выбрать до %s видео</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">Выберите до %s изобр. или видео</item>
+        <item quantity="one">Выберите до %s изобр. или видео</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">Местоположение в реж. реального времени (%d)</item>
+        <item quantity="one">Местоположение в реж. реального времени (%d)</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="other">%d мин назад</item>
+        <item quantity="one">%d мин назад</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="other">%d ч назад</item>
+        <item quantity="one">%d ч назад</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d дн. назад</item>
+        <item quantity="one">%d день назад</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">Добавлен %d контакт</item>
+        <item quantity="one">Добавлен %d контакт</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">Изменен %s контакт</item>
+        <item quantity="one">Изменен %s контакт</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">Добавлен %d контакт</item>
+        <item quantity="one">Добавлен %d контакт</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">Записей: %d</item>
+        <item quantity="one">%d запись</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">Новых сообщений: %d</item>
+        <item quantity="one">%d новое сообщение</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">Записей: %d</item>
+        <item quantity="one">%d запись</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">Осталось %s с</item>
+        <item quantity="one">Осталась %s секунда</item>
+    </plurals>
+</resources>

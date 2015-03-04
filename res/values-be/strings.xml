@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="f">Атрымаць службы Google Play</string>
+    <string name="g">Гэта прыкладанне не будзе працаваць без службаў Google Play, якіх няма ў вашым тэлефоне.</string>
+    <string name="h">Гэта прыкладанне не будзе працаваць без службаў Google Play, якіх няма на вашым планшэце.</string>
+    <string name="i">Атрымаць службы Google Play</string>
+    <string name="j">Уключыць службы Google Play</string>
+    <string name="k">Гэта прыкладанне не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
+    <string name="l">Уключыць службы Google Play</string>
+    <string name="m">Абнаўленне службаў Google Play</string>
+    <string name="n">Гэта прыкладанне не будзе працаваць падчас абнаўлення службаў Google Play.</string>
+    <string name="s">Невядомая праблема са службамі Google Play.</string>
+    <string name="t">Службы Google Play</string>
+    <string name="u">Службы Google Play, да якiх прывязаны некаторыя прыкладаннi, не падтрымлiваюцца на вашай прыладзе. Па дапамогу звярнiцеся да вытворцы.</string>
+    <string name="w">Абнавіць</string>
+    <string name="x">Увайсцi</string>
+    <string name="y">Увайсці ў Google</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fr">64.0dip</dimen>
+    <dimen name="fs">4.0dip</dimen>
+    <dimen name="gp">70.0dip</dimen>
+    <dimen name="gq">60.0dip</dimen>
+    <dimen name="hi">240.0dip</dimen>
+    <dimen name="hj">40.0dip</dimen>
+</resources>

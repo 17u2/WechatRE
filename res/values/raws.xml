@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="raw" name="a">r/c/a.mp3</item>
+    <item type="raw" name="b">r/c/b.mp3</item>
+    <item type="raw" name="c">r/c/c.mp3</item>
+    <item type="raw" name="d">r/c/d.mp3</item>
+    <item type="raw" name="wear">r/c/wear.apk</item>
+</resources>

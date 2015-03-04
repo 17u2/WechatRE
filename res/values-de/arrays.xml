@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="a">
+        <item>@string/c3z</item>
+        <item>@string/c40</item>
+        <item>@string/c41</item>
+    </string-array>
+    <string-array name="b">
+        <item>@string/c3w</item>
+        <item>@string/b7d</item>
+        <item>@string/c4h</item>
+        <item>@string/b85</item>
+    </string-array>
+</resources>

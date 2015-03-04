@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Hitilafu kwenye huduma za Google Play</string>
+    <string name="b">Programu inahitaji usakinishaji wa huduma za Google Play.</string>
+    <string name="c">Programu inahitaji toleo jipya la huduma za Google Play.</string>
+    <string name="d">Programu inahitaji huduma za Google Play ili iwashwe.</string>
+    <string name="e">Imeombwa na %1$s</string>
+    <string name="f">Pata huduma za Google Play</string>
+    <string name="g">Programu hii haiwezi kuendeshwa bila huduma za Google Play, ambazo hazipo kwenye simu yako.</string>
+    <string name="h">Programu hii haiwezi kufanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye kompyuta kibao yako.</string>
+    <string name="i">Pata huduma za Google Play</string>
+    <string name="j">Wezesha huduma za Google Play</string>
+    <string name="k">Programu hii haitafanya kazi mpaka utakapowezesha huduma za Google Play.</string>
+    <string name="l">Wezesha huduma za Google Play</string>
+    <string name="m">Sasisha huduma za Google Play</string>
+    <string name="n">Programu hii haiwezi kuendeshwa mpaka utakaposasisha huduma za Google Play.</string>
+    <string name="o">Hitilafu ya Mtandao</string>
+    <string name="p">Muunganisho wa data unahitajika ili kuunganisha kwenye huduma za Google Play.</string>
+    <string name="q">Akaunti Batili</string>
+    <string name="r">Akaunti iliyobainishwa haipo kwenye kifaa hiki. Tafadhali chagua akaunti tofauti.</string>
+    <string name="s">Suala lisilojulikana na huduma za Google Play.</string>
+    <string name="t">Huduma za Google Play</string>
+    <string name="u">Huduma za Google Play, ambazo baadhi ya programu zako zinategemea, si linganifu na kifaa chako. Tafadhali wasiliana na mtengenezaji kwa usaidizi.</string>
+    <string name="v">Inaeonekana tarehe ya kifaa sio sahihi. Tafadhali angalia tarehe ya kifaa.</string>
+    <string name="w">Sasisha</string>
+    <string name="x">Ingia</string>
+    <string name="y">Ingia ukitumia Google</string>
+</resources>

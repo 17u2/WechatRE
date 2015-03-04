@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Σφάλμα Υπηρεσιών Google Play</string>
+    <string name="b">Μια εφαρμογή απαιτεί την εγκατάσταση των Υπηρεσιών Google Play.</string>
+    <string name="c">Μια εφαρμογή απαιτεί την ενημέρωση των Υπηρεσιών Google Play.</string>
+    <string name="d">Μια εφαρμογή απαιτεί την ενεργοποίηση των Υπηρεσιών Google Play.</string>
+    <string name="e">Υποβλήθηκε αίτημα από την εφαρμογή %1$s</string>
+    <string name="f">Λήψη υπηρεσιών Google Play</string>
+    <string name="g">Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το τηλέφωνό σας.</string>
+    <string name="h">Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας.</string>
+    <string name="i">Λήψη υπηρεσιών Google Play</string>
+    <string name="j">Ενεργοποίηση υπηρεσιών Google Play</string>
+    <string name="k">Αυτή η εφαρμογή δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play.</string>
+    <string name="l">Ενεργοπ. υπηρεσιών Google Play</string>
+    <string name="m">Ενημέρωση υπηρεσιών Google Play</string>
+    <string name="n">Αυτή η εφαρμογή θα εκτελεστεί αφού ενημερώσετε τις υπηρεσίες Google Play.</string>
+    <string name="o">Σφάλμα δικτύου</string>
+    <string name="p">Απαιτείται σύνδεση δεδομένων για να συνδεθείτε με τις Υπηρεσίες Google Play.</string>
+    <string name="q">Μη έγκυρος λογαριασμός</string>
+    <string name="r">Ο συγκεκριμένος λογαριασμός δεν υπάρχει σε αυτήν τη συσκευή. Επιλέξτε έναν διαφορετικό λογαριασμό.</string>
+    <string name="s">Άγνωστο πρόβλημα με τις υπηρεσίες Google Play.</string>
+    <string name="t">Υπηρεσίες Google Play</string>
+    <string name="u">Οι υπηρεσίες Google Play, στις οποίες βασίζονται ορισμένες από τις εφαρμογές σας, δεν υποστηρίζονται στη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για υποστήριξη.</string>
+    <string name="v">Η ημερομηνία στη συσκευή φαίνεται λανθασμένη. Ελέγξτε την ημερομηνία στη συσκευή.</string>
+    <string name="w">Ενημέρωση</string>
+    <string name="x">Σύνδεση</string>
+    <string name="y">Συνδεθείτε στο Google</string>
+</resources>

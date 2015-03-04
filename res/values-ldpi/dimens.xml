@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fr">32.0dip</dimen>
+    <dimen name="g7">45.0dip</dimen>
+    <dimen name="g8">45.0dip</dimen>
+    <dimen name="g9">24.0dip</dimen>
+    <dimen name="g_">6.0dip</dimen>
+    <dimen name="ga">5.0dip</dimen>
+    <dimen name="gb">180.0dip</dimen>
+    <dimen name="h7">0.5dip</dimen>
+    <dimen name="hh">120.0dip</dimen>
+    <dimen name="hw">32.0dip</dimen>
+    <dimen name="hx">6.0dip</dimen>
+    <dimen name="hy">40.0dip</dimen>
+    <dimen name="hz">30.0dip</dimen>
+    <dimen name="i0">36.0dip</dimen>
+</resources>

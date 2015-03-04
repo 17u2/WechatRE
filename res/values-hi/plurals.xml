@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d अपठित संदेश</item>
+        <item quantity="one">%d अपठित संदेश</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%d अपठित संदेश</item>
+        <item quantity="one">%d अपठित संदेश</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">%1$d का टैब %2$d</item>
+        <item quantity="zero">%d का टैब 1</item>
+        <item quantity="one">%d का टैब 2</item>
+        <item quantity="two">%d का टैब 3</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">वॉइस %d सेकंड</item>
+        <item quantity="one">वॉइस %d सेकंड</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">%1$d मित्रों ने आपको %2$d संदेश भेजे</item>
+        <item quantity="one">%1$d मित्र ने आपको %2$d संदेश भेजा</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">[%d]</item>
+        <item quantity="one">[%d]</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">%d बॉटल को जवाब मिला</item>
+        <item quantity="one">%d बॉटल को जवाब मिला</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">आपका SMS %d सेकंड में पहुंच जाएगा.</item>
+        <item quantity="one">आपका SMS %d सेकंड में पहुंच जाएगा.</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%d सेकंड शेष</item>
+        <item quantity="one">%d सेकंड शेष</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d संपर्क</item>
+        <item quantity="one">%d संपर्क</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%d समूह</item>
+        <item quantity="one">%d समूह</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">WeChat पर %d मित्र</item>
+        <item quantity="one">WeChat पर %d मित्र</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">%d संपर्क मिला</item>
+        <item quantity="one">%d संपर्क मिला</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">%d मित्र जोड़ा गया</item>
+        <item quantity="one">%d मित्र जोड़ा गया</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%d आमंत्रण भेजे गए</item>
+        <item quantity="one">%d आमंत्रण भेजे गए</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">आप WeChat में %d मित्रों को आमंत्रित कर रहे हैं</item>
+        <item quantity="one">आप WeChat में %d मित्रों को आमंत्रित कर रहे हैं</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%s प्राप्तकर्ता:</item>
+        <item quantity="one">%s प्राप्तकर्ता:</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">आप %s मित्रों को संदेश भेज रहे हैं:</item>
+        <item quantity="one">आप %s मित्रों को संदेश भेज रहे हैं:</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">%1$d अनुलग्नक (%2$s)</item>
+        <item quantity="one">%1$d अनुलग्नक (%2$s)</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%s संदेश</item>
+        <item quantity="one">%s संदेश</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">%d members</item>
+        <item quantity="one">%d member</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">%d नई शुभकामना</item>
+        <item quantity="one">%d नई शुभकामना</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">अधिकतम %s फ़ोटो चुनी जा सकती है (हैं)</item>
+        <item quantity="one">अधिकतम %s फ़ोटो चुनी जा सकती है (हैं)</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">अधिकतम %s वीडियो चुना (चुने) जा सकता है (सकते हैं)</item>
+        <item quantity="one">अधिकतम %s वीडियो चुना (चुने) जा सकता है (सकते हैं)</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">अधिकतम %s छवि या वीडियो चुनें</item>
+        <item quantity="one">अधिकतम %s छवि या वीडियो चुनें</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">रीयल-टाइम स्थान (%d)</item>
+        <item quantity="one">रीयल-टाइम स्थान (%d)</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="other">%d मिनट पहले</item>
+        <item quantity="one">%d मिनट पहले</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="other">%d घंटे पहले</item>
+        <item quantity="one">%d घंटा पहले</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d दिन पहले</item>
+        <item quantity="one">%d दिन पहले</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">%d संपर्क जोड़ा गया</item>
+        <item quantity="one">%d संपर्क जोड़ा गया</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">%s संपर्क संपादित किया गया</item>
+        <item quantity="one">%s संपर्क संपादित किया गया</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">%d संपर्क जोड़ा गया</item>
+        <item quantity="one">%d संपर्क जोड़ा गया</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">%d पोस्ट</item>
+        <item quantity="one">%d पोस्ट</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">%d नए संदेश</item>
+        <item quantity="one">%d नया संदेश</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">%d पोस्ट</item>
+        <item quantity="one">%d पोस्ट</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">%s सेकंड शेष</item>
+        <item quantity="one">%s सेकंड शेष</item>
+    </plurals>
+</resources>

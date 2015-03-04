@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Fout met Google Play-services</string>
+    <string name="b">Google Play-services moet zijn geïnstalleerd voor een app.</string>
+    <string name="c">Google Play-services moet worden bijgewerkt voor een app.</string>
+    <string name="d">Google Play-services moet zijn ingeschakeld voor een app.</string>
+    <string name="e">Aangevraagd door %1$s</string>
+    <string name="f">Google Play-services ophalen</string>
+    <string name="g">Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw telefoon.</string>
+    <string name="h">Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw tablet.</string>
+    <string name="i">Google Play-services ophalen</string>
+    <string name="j">Google Play-services inschakelen</string>
+    <string name="k">Deze app werkt niet, tenzij u Google Play-services inschakelt.</string>
+    <string name="l">Google Play-services inschak.</string>
+    <string name="m">Google Play-services bijwerken</string>
+    <string name="n">Deze app kan niet worden uitgevoerd, tenzij u Google Play-services bijwerkt.</string>
+    <string name="o">Netwerkfout</string>
+    <string name="p">Er is een gegevensverbinding nodig om verbinding te kunnen maken met Google Play-services.</string>
+    <string name="q">Ongeldig account</string>
+    <string name="r">Het gespecificeerde account bestaat niet op dit apparaat. Kies een ander account.</string>
+    <string name="s">Onbekend probleem met Google Play-services.</string>
+    <string name="t">Google Play-services</string>
+    <string name="u">Google Play-services, dat vereist is voor een aantal van uw applicaties, wordt niet ondersteund door uw apparaat. Neem contact op met de fabrikant voor ondersteuning.</string>
+    <string name="v">De datum op het apparaat lijkt onjuist. Controleer de datum op het apparaat.</string>
+    <string name="w">Bijwerken</string>
+    <string name="x">Inloggen</string>
+    <string name="y">Inloggen met Google</string>
+</resources>

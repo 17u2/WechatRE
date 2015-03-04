@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">‏خطا در خدمات Google Play</string>
+    <string name="b">‏برنامه‌ای نیاز به نصب خدمات Google Play دارد.</string>
+    <string name="c">‏‫برنامه‌ای نیاز به یک به‌روزرسانی برای خدمات Google Play دارد.</string>
+    <string name="d">‏برنامه‌ای نیاز به فعال شدن خدمات Google Play دارد.</string>
+    <string name="e">درخواست توسط %1$s</string>
+    <string name="f">‏دریافت خدمات Google Play</string>
+    <string name="g">‏این برنامه بدون خدمات Google Play اجرا نمی‌شود، این خدمات در تلفن شما وجود ندارد.</string>
+    <string name="h">‏این برنامه بدون خدمات Google Play اجرا نمی‌شود، این خدمات در رایانهٔ لوحی شما وجود ندارد.</string>
+    <string name="i">‏دریافت خدمات Google Play</string>
+    <string name="j">‏فعال کردن خدمات Google Play</string>
+    <string name="k">‏تا زمانی‌که خدمات Google Play را فعال نکنید این برنامه کار نمی‌کند.</string>
+    <string name="l">‏فعال کردن خدمات Google Play</string>
+    <string name="m">‏به‌روزرسانی خدمات Google Play</string>
+    <string name="n">‏تا زمانی‌که خدمات Google Play را به‌روز نکنید این برنامه کار نمی‌کند.</string>
+    <string name="o">خطای شبکه</string>
+    <string name="p">‏برای اتصال به خدمات Google Play اتصال داده لازم است.</string>
+    <string name="q">حساب نامعتبر</string>
+    <string name="r">حسابی که تعیین کردید در این دستگاه وجود ندارد. لطفاً حساب دیگری را انتخاب کنید.</string>
+    <string name="s">‏مشکل نامشخص در خدمات Google Play.</string>
+    <string name="t">‏خدمات Google Play</string>
+    <string name="u">‏خدمات Google Play، که برخی از برنامه‌های شما به آن وابسته است، توسط دستگاه شما پشتیبانی نمی‌شود. لطفاً برای دریافت کمک با سازنده تماس بگیرید.</string>
+    <string name="v">تاریخ روی دستگاه ظاهراً اشتباه است. لطفاً تاریخ روی دستگاه را بررسی کنید.</string>
+    <string name="w">به‌روزرسانی</string>
+    <string name="x">ورود به سیستم</string>
+    <string name="y">‏ورود به سیستم با Google‎</string>
+</resources>

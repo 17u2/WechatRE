@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Google Play pakalpojumu kļūda</string>
+    <string name="b">Lai lietojumprogramma darbotos, jāinstalē Google Play pakalpojumi.</string>
+    <string name="c">Lai lietojumprogramma darbotos, jāatjaunina Google Play pakalpojumi.</string>
+    <string name="d">Lai lietojumprogramma darbotos, jāiespējo Google Play pakalpojumi.</string>
+    <string name="e">Pieprasījums no lietotnes %1$s</string>
+    <string name="f">Google Play pakalpojumu iegūšana</string>
+    <string name="g">Lai šī lietotne darbotos, tālrunī ir jāinstalē Google Play pakalpojumi.</string>
+    <string name="h">Lai šī lietotne darbotos, planšetdatorā ir jāinstalē Google Play pakalpojumi.</string>
+    <string name="i">Iegūt Google Play pakalpojumus</string>
+    <string name="j">Google Play pakalpojumu iespējošana</string>
+    <string name="k">Lai šī lietotne darbotos, iespējojiet Google Play pakalpojumus.</string>
+    <string name="l">Iespējot Google Play pakalpojumus</string>
+    <string name="m">Google Play pakalpojumu atjaunināšana</string>
+    <string name="n">Lai šī lietotne darbotos, atjauniniet Google Play pakalpojumus.</string>
+    <string name="o">Tīkla kļūda</string>
+    <string name="p">Lai izveidotu savienojumu ar Google Play pakalpojumiem, ir nepieciešams datu savienojums.</string>
+    <string name="q">Nederīgs konts</string>
+    <string name="r">Norādītais konts šajā ierīcē nepastāv. Lūdzu, izvēlieties citu kontu.</string>
+    <string name="s">Nezināma problēma ar Google Play pakalpojumiem.</string>
+    <string name="t">Google Play pakalpojumi</string>
+    <string name="u">Jūsu ierīce neatbalsta Google Play pakalpojumus, kuri nepieciešami dažu jūsu lietojumprogrammu darbībai. Lūdzu, sazinieties ar ražotāju, lai saņemtu palīdzību.</string>
+    <string name="v">Šķiet, ka ierīcē ir iestatīts nepareizs datums. Lūdzu, pārbaudiet ierīces datumu.</string>
+    <string name="w">Atjaunināt</string>
+    <string name="x">Pierakst.</string>
+    <string name="y">Pierakstīties Google</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Google Play ծառայությունների սխալ կա</string>
+    <string name="b">Ինչ-որ հավելված պահանջում է տեղադրել Google Play ծառայությունները:</string>
+    <string name="c">Ինչ-որ հավելված պահանջում է թարմացնել Google Play ծառայությունները:</string>
+    <string name="d">Ինչ-որ հավելված պահանջում է միացնել Google Play ծառայությունները:</string>
+    <string name="e">%1$s-ի հարցմամբ</string>
+    <string name="f">Տեղադրեք Google Play ծառայությունները</string>
+    <string name="g">Այս հավելվածը չի գործարկվի առանց Google Play ծառայությունների, որոնք բացակայում են ձեր հեռախոսում:</string>
+    <string name="h">Այս հավելվածը չի գործարկվի առանց Google Play ծառայությունների, որոնք բացակայում են ձեր գրասալիկում:</string>
+    <string name="i">Տեղադրել Google Play ծառայությունները</string>
+    <string name="j">Միացնել Google Play ծառայությունները</string>
+    <string name="k">Այս ծրագիրը չի աշխատի, եթե դուք չմիացնեք Google Play ծառայությունները:</string>
+    <string name="l">Միացնել Google Play ծառայությունները</string>
+    <string name="m">Նորացրեք Google Play ծառայությունները</string>
+    <string name="n">Այս ծրագիրը չի գործարկվի, եթե դուք չնորացնեք Google Play ծառայությունները:</string>
+    <string name="o">Ցանցի սխալ կա</string>
+    <string name="p">Պահանջվում է տվյալների կապ` Google Play ծառայություններին միանալու համար:</string>
+    <string name="q">Հաշիվն անվավեր է</string>
+    <string name="r">Նշված հաշիվը գոյություն չունի այս սարքում: Ընտրեք այլ հաշիվ:</string>
+    <string name="s">Անհայտ խնդիր՝ Google Play ծառայություններում:</string>
+    <string name="t">Google Play ծառայություններ</string>
+    <string name="u">Google Play ծառայությունները, որոնց ապավինում են ձեր ծրագրերից որոշները, չեն աջակցվում ձեր սարքի կողմից: Խնդրում ենք կապվել արտադրողի հետ օգնության համար:</string>
+    <string name="v">Սարքի ամսաթիվը կարծես սխալ է: Ստուգեք սարքի ամսաթիվը:</string>
+    <string name="w">Նորացնել</string>
+    <string name="x">Մուտք գործել</string>
+    <string name="y">Մուտք գործեք Google-ով</string>
+</resources>

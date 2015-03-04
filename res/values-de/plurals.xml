@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d ungelesene Nachrichten</item>
+        <item quantity="one">%d ungelesene Nachricht</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%d ungelesene Nachrichten</item>
+        <item quantity="one">%d ungelesene Nachricht</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Tab %2$d von %1$d</item>
+        <item quantity="zero">Tab 1 von %d</item>
+        <item quantity="one">Tab 2 von %d</item>
+        <item quantity="two">Tab 3 von %d</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Sprache %d Sekunden</item>
+        <item quantity="one">Sprache %d Sekunde</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">%1$d Freunde haben Ihnen %2$d Nachrichten gesendet.</item>
+        <item quantity="one">%1$d Freunde haben Ihnen %2$d Nachrichten gesendet.</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">[%d]</item>
+        <item quantity="one">[%d]</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">%d Flasche hat Antwort erhalten.</item>
+        <item quantity="one">%d Flasche hat Antwort erhalten.</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">Ihre SMS sollte in %d Sekunden ankommen.</item>
+        <item quantity="one">Ihre SMS sollte in %d Sekunden ankommen.</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">Noch %d Sekunden</item>
+        <item quantity="one">Noch %d Sekunden</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d Kontakte</item>
+        <item quantity="one">%d Kontakte</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%d Gruppe</item>
+        <item quantity="one">%d Gruppe</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%d Freunde auf WeChat</item>
+        <item quantity="one">%d Freunde auf WeChat</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">%d Kontakt gefunden</item>
+        <item quantity="one">%d Kontakt gefunden</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">%d Freund hinzugefügt</item>
+        <item quantity="one">%d Freund hinzugefügt</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%d Einladungen verschickt</item>
+        <item quantity="one">%d Einladungen verschickt</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Sie laden gerade %d Freunde zu WeChat ein</item>
+        <item quantity="one">Sie laden gerade %d Freunde zu WeChat ein</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%s Empfänger:</item>
+        <item quantity="one">%s Empfänger:</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">Sie senden die Nachricht an %s Freunde:</item>
+        <item quantity="one">Sie senden die Nachricht an %s Freunde:</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">%1$d Anhänge (%2$s)</item>
+        <item quantity="one">%1$d Anhänge (%2$s)</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%s Nachrichten</item>
+        <item quantity="one">%s Nachricht</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">%d members</item>
+        <item quantity="one">%d member</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">%d neue Grußnachricht</item>
+        <item quantity="one">%d neue Grußnachricht</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">Bis zu %s Fotos können ausgewählt werden</item>
+        <item quantity="one">Bis zu %s Foto kann ausgewählt werden</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">Bis zu %s Video können ausgewählt werden</item>
+        <item quantity="one">Bis zu %s Video können ausgewählt werden</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">Bis zu %s Bilder und Videos auswählen</item>
+        <item quantity="one">Bis zu %s Bild und Video auswählen</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">Echtzeit-Standort (%d)</item>
+        <item quantity="one">Echtzeit-Standort (%d)</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="other">vor %d Minuten</item>
+        <item quantity="one">vor %d Minute</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="other">vor %d Stunden</item>
+        <item quantity="one">Vor %d Stunde</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">vor %d Tagen</item>
+        <item quantity="one">vor %d Tag</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">%d Kontakt hinzugefügt</item>
+        <item quantity="one">%d Kontakt hinzugefügt</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">%s Kontakt bearbeitet</item>
+        <item quantity="one">%s Kontakt bearbeitet</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">%d Kontakt hinzugefügt</item>
+        <item quantity="one">%d Kontakt hinzugefügt</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">%d Beiträge</item>
+        <item quantity="one">%d Beitrag</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">%d neue Nachrichten</item>
+        <item quantity="one">%d neue Nachricht</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">%d Beiträge</item>
+        <item quantity="one">%d Beitrag</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">Noch %s Sekunden</item>
+        <item quantity="one">Noch %s Sekunde</item>
+    </plurals>
+</resources>

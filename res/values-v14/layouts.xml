@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="em">r/w/em.xml</item>
+    <item type="layout" name="fb">r/w/fb.xml</item>
+</resources>

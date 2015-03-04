@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="b">Аппликешн Google Наадаан Үйлчилгээг суулгахыг шаардана.</string>
+    <string name="c">Аппликешн Google Наадаан Үйлчилгээг шинэчлэхийг шаардана.</string>
+    <string name="d">Аппликешн Google Наадаан Үйлчилгээг идэвхжүүлсэн байхыг шаардана.</string>
+    <string name="e">%1$s хүсэлт гаргасан</string>
+    <string name="f">Google Play үйлчилгээ авах</string>
+    <string name="g">Таны утсанд байхгүй байгаа Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="h">Таны таблетэд байхгүй Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="i">Google Play үйлчилгээ авах</string>
+    <string name="j">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="k">Та Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="l">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="m">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="n">Та Google Play үйлчилгээг шинэчлэхгүй бол энэ апп ажиллах боломжгүй.</string>
+    <string name="o">Сүлжээний алдаа</string>
+    <string name="p">Google Play үйлчилгээнд холбогдохын тулд дата холболт шаардлагатай.</string>
+    <string name="q">Буруу акаунт</string>
+    <string name="r">Заасан акаунт энэ төхөөрөмж дээр байхгүй байна. Өөр акаунт сонгоно уу.</string>
+    <string name="s">Google Play үйлчилгээтэй холбоотой тодорхойгүй алдаа.</string>
+    <string name="t">Google Play үйлчилгээ</string>
+    <string name="u">Таны зарим аппликешнүүдийн хамаардаг Google Play үйлчилгээ таны төхөөрөмжид дэмжигдэхгүй байна. Тусламж авахын тулд үйлдвэрлэгчтэй холбоо барина уу.</string>
+    <string name="v">Төхөөрөмжийн огноо буруу байгаа бололтой. Төхөөрөмжийн огноог шалгана уу.</string>
+    <string name="w">Шинэчлэх</string>
+    <string name="x">Нэвтрэх</string>
+    <string name="y">Google-р нэвтрэх:</string>
+</resources>

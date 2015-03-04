@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Viga Google Play teenustes</string>
+    <string name="b">Rakenduse kasutamiseks peavad olema installitud Google Play teenused.</string>
+    <string name="c">Rakenduse kasutamiseks tuleb värskendada Google Play teenuseid.</string>
+    <string name="d">Rakenduse kasutamiseks peavad olema lubatud Google Play teenused.</string>
+    <string name="e">Taotluse esitas %1$s</string>
+    <string name="f">Hankige Google Play teenused</string>
+    <string name="g">Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie telefonis pole.</string>
+    <string name="h">Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie tahvelarvutis pole.</string>
+    <string name="i">Hankige Google Play teenused</string>
+    <string name="j">Lubage Google Play teenused</string>
+    <string name="k">See rakendus ei tööta, kui te ei luba Google Play teenuseid.</string>
+    <string name="l">Lubage Google Play teenused</string>
+    <string name="m">Värskendage Google Play teenuseid</string>
+    <string name="n">Seda rakendust ei saa käitada, kui te ei värskenda Google Play teenuseid.</string>
+    <string name="o">Võrgu viga</string>
+    <string name="p">Google Play teenustega ühenduse loomiseks on vajalik andmesideühendus.</string>
+    <string name="q">Vale konto</string>
+    <string name="r">Määratud kontot pole selles seadmes olemas. Valige muu konto.</string>
+    <string name="s">Google Play teenuste tundmatu probleem.</string>
+    <string name="t">Google Play teenused</string>
+    <string name="u">Teie seade ei toeta Google Play teenuseid, millele mõni teie rakendustest toetub. Abi saamiseks võtke ühendust tootjaga.</string>
+    <string name="v">Seadme kuupäev paistab olevat vale. Kontrollige seadme kuupäeva.</string>
+    <string name="w">Värskenda</string>
+    <string name="x">Logi sisse</string>
+    <string name="y">"Logi sisse Google'iga"</string>
+</resources>

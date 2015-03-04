@@ -1,0 +1,38 @@
+.class public final Lcom/tencent/mm/ui/contact/a/d$a;
+.super Lcom/tencent/mm/ui/contact/a/a$a;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/tencent/mm/ui/contact/a/d;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1
+    name = "a"
+.end annotation
+
+
+# instance fields
+.field public fBy:Landroid/widget/TextView;
+
+.field public fOT:Landroid/widget/TextView;
+
+.field public fwM:Landroid/widget/ImageView;
+
+.field final synthetic mds:Lcom/tencent/mm/ui/contact/a/d;
+
+
+# direct methods
+.method public constructor <init>(Lcom/tencent/mm/ui/contact/a/d;)V
+    .locals 0
+
+    .prologue
+    .line 63
+    iput-object p1, p0, Lcom/tencent/mm/ui/contact/a/d$a;->mds:Lcom/tencent/mm/ui/contact/a/d;
+
+    invoke-direct {p0, p1}, Lcom/tencent/mm/ui/contact/a/a$a;-><init>(Lcom/tencent/mm/ui/contact/a/a;)V
+
+    return-void
+.end method

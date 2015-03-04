@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d ข้อความที่ไม่ได้อ่าน</item>
+        <item quantity="one">%d ข้อความที่ไม่ได้อ่าน</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%d ข้อความที่ไม่ได้อ่าน</item>
+        <item quantity="one">%d ข้อความที่ไม่ได้อ่าน</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">แท็บ %2$d จาก %1$d</item>
+        <item quantity="zero">แท็บ 1 จาก %d</item>
+        <item quantity="one">แท็บ 2 จาก %d</item>
+        <item quantity="two">แท็บ 3 จาก %d</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">เสียง %d วินาที</item>
+        <item quantity="one">เสียง %d วินาที</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">เพื่อน %1$d คนได้ส่ง %2$d ข้อความถึงคุณ</item>
+        <item quantity="one">เพื่อน %1$d คนได้ส่ง %2$d ข้อความถึงคุณ</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">[%d]</item>
+        <item quantity="one">[%d]</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">%d ขวดได้รับการตอบกลับ</item>
+        <item quantity="one">%d ขวดได้รับการตอบกลับ</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">SMS จะถูกส่งไปภายใน %d วินาที</item>
+        <item quantity="one">SMS จะถูกส่งไปภายใน %d วินาที</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">ยังเหลือ%dวินาที</item>
+        <item quantity="one">ยังเหลือ%dวินาที</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">ผู้ติดต่อ %d คน</item>
+        <item quantity="one">ผู้ติดต่อ %d คน</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%d กลุ่ม</item>
+        <item quantity="one">%d กลุ่ม</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%d เพื่อนบน WeChat</item>
+        <item quantity="one">%d เพื่อนบน WeChat</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">พบ %d ผู้ติดต่อ</item>
+        <item quantity="one">พบ %d ผู้ติดต่อ</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">เพิ่ม %d เพื่อน</item>
+        <item quantity="one">เพิ่ม %d เพื่อน</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">ส่ง %d คำเชิญ</item>
+        <item quantity="one">ส่ง %d คำเชิญ</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">คุณกำลังเชิญ %d เพื่อนเข้าร่วม WeChat</item>
+        <item quantity="one">คุณกำลังเชิญ %d เพื่อนเข้าร่วม WeChat</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%s ผู้รับ:</item>
+        <item quantity="one">%s ผู้รับ:</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">คุณกำลังส่งข้อความถึงเพื่อน %s คน:</item>
+        <item quantity="one">คุณกำลังส่งข้อความถึงเพื่อน %s คน:</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">%1$d สิ่งที่แนบมา (%2$s)</item>
+        <item quantity="one">%1$d สิ่งที่แนบมา (%2$s)</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%s ข้อความ</item>
+        <item quantity="one">%s ข้อความ</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">%d members</item>
+        <item quantity="one">%d member</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">%d ข้อความทักทายใหม่</item>
+        <item quantity="one">%d ข้อความทักทายใหม่</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">เลือกได้สูงสุด %s รูป</item>
+        <item quantity="one">เลือกได้สูงสุด %s รูป</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">เลือกได้สูงสุด %s วิดีโอ</item>
+        <item quantity="one">เลือกได้สูงสุด %s วิดีโอ</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">เลือกได้สูงสุด %s รูปหรือวิดีโอ</item>
+        <item quantity="one">เลือกได้สูงสุด %s รูปหรือวิดีโอ</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">ตำแหน่งแบบเรียลไทม์ (%d)</item>
+        <item quantity="one">ตำแหน่งแบบเรียลไทม์ (%d)</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+        <item quantity="one">%d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="other">%d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">%d ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d วันที่ผ่านมา</item>
+        <item quantity="one">%d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">เพิ่มผู้ติดต่อ %d คนแล้ว</item>
+        <item quantity="one">เพิ่มผู้ติดต่อ %d คนแล้ว</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">แก้ไขผู้ติดต่อ %s คนแล้ว</item>
+        <item quantity="one">แก้ไขผู้ติดต่อ %s คนแล้ว</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">เพิ่มผู้ติดต่อ %d คนแล้ว</item>
+        <item quantity="one">เพิ่มผู้ติดต่อ %d คนแล้ว</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">%d โพสต์</item>
+        <item quantity="one">%d โพสต์</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">%d ข้อความใหม่</item>
+        <item quantity="one">%d ข้อความใหม่</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">%d โพสต์</item>
+        <item quantity="one">%d โพสต์</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">เหลือ %s วินาที</item>
+        <item quantity="one">เหลือ %s วินาที</item>
+    </plurals>
+</resources>

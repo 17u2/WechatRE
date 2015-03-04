@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="oh">r/b/oh.xml</item>
+    <item type="layout" name="u_">r/b/u_.xml</item>
+    <item type="layout" name="a3l">r/b/a3l.xml</item>
+    <item type="layout" name="a7t">r/b/a7t.xml</item>
+    <item type="layout" name="a7u">r/b/a7u.xml</item>
+</resources>

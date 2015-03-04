@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Google Play Services-fout</string>
+    <string name="b">"'n Program vereis dat Google Play Services geïnstalleer word."</string>
+    <string name="c">"'n Program vereis dat Google Play Services opgedateer word."</string>
+    <string name="d">"'n Program vereis dat Google Play Services geaktiveer word."</string>
+    <string name="e">Versoek deur %1$s</string>
+    <string name="f">Kry Google Play-dienste</string>
+    <string name="g">Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou foon is nie.</string>
+    <string name="h">Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou tablet is nie.</string>
+    <string name="i">Kry Google Play-dienste</string>
+    <string name="j">Aktiveer Google Play-dienste</string>
+    <string name="k">Hierdie program sal nie werk tensy jy Google Play-dienste aktiveer nie.</string>
+    <string name="l">Aktiveer Google Play-dienste</string>
+    <string name="m">Dateer Google Play-dienste op</string>
+    <string name="n">Hierdie program sal nie loop nie, tensy jy Google Play-dienste opdateer.</string>
+    <string name="o">Netwerkfout</string>
+    <string name="p">"'n Dataverbinding is nodig om aan Google Play-dienste te koppel."</string>
+    <string name="q">Ongeldige rekening</string>
+    <string name="r">"Die gespesifiseerde rekening bestaan nie op hierdie toestel nie. Kies asseblief 'n ander rekening."</string>
+    <string name="s">Onbekende probleem met Google Play-dienste.</string>
+    <string name="t">Google Play-dienste</string>
+    <string name="u">Google Play-dienste, waarop sommige van jou programme staatmaak, werk nie met jou toestel nie. Kontak asseblief die vervaardiger vir bystand.</string>
+    <string name="v">Dit lyk of die datum op die toestel verkeerd is. Gaan asseblief die datum op die toestel na.</string>
+    <string name="w">Dateer op</string>
+    <string name="x">Meld aan</string>
+    <string name="y">Meld aan met Google</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Google Play Services-ის შეცდომა</string>
+    <string name="b">აპლიკაცია საჭიროება Google Play Services-ის ინსტალაციას.</string>
+    <string name="c">აპლიკაცია საჭიროებს Google Play Services-ის განახლებას.</string>
+    <string name="d">აპლიკაცია საჭიროებს გააქტიურებულ Google Play Services.</string>
+    <string name="e">მომთხოვნი: %1$s</string>
+    <string name="f">Google Play სერვისების მიღება</string>
+    <string name="g">ეს აპი ვერ გაეშვება Google Play სერვისების გარეშე, რაც თქვენს ტელეფონზე ვერ იძებნება.</string>
+    <string name="h">ეს აპი ვერ გაეშვება Google Play სერვისების გარეშე, რაც თქვენს ტელეფონზე ვერ იძებნება.</string>
+    <string name="i">Google Play სერვისების მიღება</string>
+    <string name="j">Google Play სერვისების გააქტიურება</string>
+    <string name="k">ეს აპი არ იმუშავებს, თუ არ გაააქტიურებთ Google Play სერვისებს.</string>
+    <string name="l">Google Play სერვისების გააქტიურება</string>
+    <string name="m">Google Play სერვისების განახლება</string>
+    <string name="n">ეს აპი ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="o">ქსელის შეცდომა</string>
+    <string name="p">Google Play Services-თან დასაკავშირებლად მონაცემთა გადაცემა აუცილებელია.</string>
+    <string name="q">ანგარიში არასწორია</string>
+    <string name="r">მითითებული ანგარიში ამ მოწყობილობაზე არ არსებობს. გთხოვთ, აირჩიოთ სხვა ანგარიში.</string>
+    <string name="s">Google Play სერვისებთან დაკავშირებით უცნობი შეფერხება წარმოიშვა.</string>
+    <string name="t">Google Play სერვისები</string>
+    <string name="u">Google Play სერვისები, რაც თქვენს ზოგიერთ აპს ჭირდება, თქვენს მოწყობილობაზე მხარდაჭერილი არ არის. გთხოვთ, დაუკავშირდეთ მწარმოებელს დახმარებისათვის.</string>
+    <string name="v">როგორც ჩანს, მოწყობილობის თარიღი არასწორია. გთხოვთ, შეამოწმოთ მოწყობილობის თარიღი.</string>
+    <string name="w">განახლება</string>
+    <string name="x">შესვლა</string>
+    <string name="y">Google-ით შესვლა</string>
+</resources>

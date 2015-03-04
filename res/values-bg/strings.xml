@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">Грешка в услугите за Google Play</string>
+    <string name="b">Приложение изисква инсталирането на услугите за Google Play.</string>
+    <string name="c">Приложение изисква актуализирането на услугите за Google Play.</string>
+    <string name="d">Приложение изисква активирането на услугите за Google Play.</string>
+    <string name="e">Заявено от %1$s</string>
+    <string name="f">Изтегляне на услугите за Google Play</string>
+    <string name="g">Това приложение няма да се изпълнява без услугите за Google Play, които липсват в телефона ви.</string>
+    <string name="h">Това приложение няма да се изпълнява без услугите за Google Play, които липсват в таблета ви.</string>
+    <string name="i">Услуги за Google Play: Изтегл.</string>
+    <string name="j">Активиране на услугите за Google Play</string>
+    <string name="k">Това приложение няма да работи, освен ако не активирате услугите за Google Play.</string>
+    <string name="l">Услуги за Google Play: Актив.</string>
+    <string name="m">Актуализиране на услугите за Google Play</string>
+    <string name="n">Това приложение няма да се изпълнява, освен ако не актуализирате услугите за Google Play.</string>
+    <string name="o">Грешка в мрежата</string>
+    <string name="p">За свързване с услугите за Google Play се изисква връзка за данни.</string>
+    <string name="q">Невалиден профил</string>
+    <string name="r">Посоченият профил не съществува на това устройство. Моля, изберете друг.</string>
+    <string name="s">Неизвестен проблем с услугите за Google Play.</string>
+    <string name="t">Услуги за Google Play</string>
+    <string name="u">Услугите за Google Play, на които разчитат някои от приложенията ви, не се поддържат от устройството ви. Моля, свържете се с производителя за помощ.</string>
+    <string name="v">Изглежда, че датата на устройството е неправилна. Моля, проверете я.</string>
+    <string name="w">Актуализиране</string>
+    <string name="x">Вход</string>
+    <string name="y">Вход с Google</string>
+</resources>

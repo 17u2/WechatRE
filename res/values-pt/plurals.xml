@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d mensagens não lidas</item>
+        <item quantity="one">%d mensagem não lida</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%d mensagens não lidas</item>
+        <item quantity="one">%d mensagem não lida</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Guia %2$d de %1$d</item>
+        <item quantity="zero">Guia 1 de %d</item>
+        <item quantity="one">Guia 2 de %d</item>
+        <item quantity="two">Guia 3 de %d</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Voz %d segundos</item>
+        <item quantity="one">Voz %d segundo</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">%1$d amigos te enviaram %2$d mensagens</item>
+        <item quantity="one">%1$d amigo te enviou %2$d mensagem</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">[%d]</item>
+        <item quantity="one">[%d]</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">%d garrafa obteve resposta</item>
+        <item quantity="one">%d garrafa obteve resposta</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">O seu SMS deverá chegar em %d segundos.</item>
+        <item quantity="one">O seu SMS deverá chegar em %d segundos.</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%d segundos sobrando</item>
+        <item quantity="one">%d segundos sobrando</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d contatos</item>
+        <item quantity="one">%d contatos</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%d grupo</item>
+        <item quantity="one">%d grupo</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%d amigos no WeChat</item>
+        <item quantity="one">%d amigos no WeChat</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">%d contato encontrado</item>
+        <item quantity="one">%d contato encontrado</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">%d amigo adicionado</item>
+        <item quantity="one">%d amigo adicionado</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%d convites enviados</item>
+        <item quantity="one">%d convites enviados</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Você está convidando %d amigos para o WeChat</item>
+        <item quantity="one">Você está convidando %d amigos para o WeChat</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%s destinatário:</item>
+        <item quantity="one">%s destinatário:</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">Você está enviando a mensagem para %s amigos:</item>
+        <item quantity="one">Você está enviando a mensagem para %s amigos:</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">%1$d anexos (%2$s)</item>
+        <item quantity="one">%1$d anexos (%2$s)</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%s de mensagens</item>
+        <item quantity="one">%s de mensagem</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">%d members</item>
+        <item quantity="one">%d member</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">%d nova saudação</item>
+        <item quantity="one">%d nova saudação</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">Até %s fotos podem ser selecionadas</item>
+        <item quantity="one">Até %s foto pode ser selecionada</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">Até %s vídeo pode ser selecionado</item>
+        <item quantity="one">Até %s vídeo pode ser selecionado</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">Selecione até %s imagens ou vídeos</item>
+        <item quantity="one">Selecione até %s imagem ou vídeo</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">Local em Tempo Real (%d)</item>
+        <item quantity="one">Local em Tempo Real (%d)</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">%d minuto atrás</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="other">%d horas atrás</item>
+        <item quantity="one">%d hora atrás</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d dias atrás</item>
+        <item quantity="one">%d dia atrás</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">%d contato adicionado</item>
+        <item quantity="one">%d contato adicionado</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">%s contato editado</item>
+        <item quantity="one">%s contato editado</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">%d contato adicionado</item>
+        <item quantity="one">%d contato adicionado</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">%d posts</item>
+        <item quantity="one">%d post</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">%d novas mensagens</item>
+        <item quantity="one">%d nova mensagem</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">%d posts</item>
+        <item quantity="one">%d post</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">%s segundos restantes</item>
+        <item quantity="one">%s segundo restante</item>
+    </plurals>
+</resources>

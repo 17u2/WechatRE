@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="ne">r/i/ne.9.png</item>
+    <item type="drawable" name="nf">r/i/nf.9.png</item>
+    <item type="drawable" name="ng">r/i/ng.9.png</item>
+    <item type="drawable" name="nh">r/i/nh.9.png</item>
+    <item type="drawable" name="ni">r/i/ni.9.png</item>
+    <item type="drawable" name="aye">r/i/aye.png</item>
+    <item type="drawable" name="ayf">r/i/ayf.png</item>
+    <item type="drawable" name="ayg">r/i/ayg.png</item>
+</resources>

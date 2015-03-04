@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d개의 메시지 읽지 않음</item>
+        <item quantity="one">%d개의 메시지 읽지 않음</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%d개의 메시지 읽지 않음</item>
+        <item quantity="one">%d개의 메시지 읽지 않음</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">%1$d의 탭 %2$d</item>
+        <item quantity="zero">%d의 탭 1</item>
+        <item quantity="one">%d의 탭 2</item>
+        <item quantity="two">%d의 탭 3</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">음성 %d초</item>
+        <item quantity="one">음성 %d초</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">%1$d 명의 친구가 %2$d 개의 메시지를 보냈습니다.</item>
+        <item quantity="one">%1$d 명의 친구가 %2$d 개의 메시지를 보냈습니다.</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">[%d]</item>
+        <item quantity="one">[%d]</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">%d개의 병편지에 대한 답장을 받았습니다.</item>
+        <item quantity="one">%d개의 병편지에 대한 답장을 받았습니다.</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">SMS는 %d초 내에 도착해야 합니다.</item>
+        <item quantity="one">SMS는 %d초 내에 도착해야 합니다.</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%d초 남았습니다.</item>
+        <item quantity="one">%d초 남았습니다.</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d명의 대화 상대</item>
+        <item quantity="one">%d명의 대화 상대</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%d개의 그룹</item>
+        <item quantity="one">%d개의 그룹</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">WeChat 친구 %d명</item>
+        <item quantity="one">WeChat 친구 %d명</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">%d명의 대화 상대를 찾음</item>
+        <item quantity="one">%d명의 대화 상대를 찾음</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">%d명의 친구가 추가됨</item>
+        <item quantity="one">%d명의 친구가 추가됨</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%d개의 초대를 보냄</item>
+        <item quantity="one">%d개의 초대를 보냄</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">회원님이 %d명의 친구를 WeChat에 초대하고 있음</item>
+        <item quantity="one">회원님이 %d명의 친구를 WeChat에 초대하고 있음</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%s명의 수신인:</item>
+        <item quantity="one">%s명의 수신인:</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">회원님이 %s명의 친구에게 메시지를 보내고 있음:</item>
+        <item quantity="one">회원님이 %s명의 친구에게 메시지를 보내고 있음:</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">첨부 파일 %1$d개(%2$s)</item>
+        <item quantity="one">첨부 파일 %1$d개(%2$s)</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%s님의 메시지</item>
+        <item quantity="one">%s님의 메시지</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">%d members</item>
+        <item quantity="one">%d member</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">새로운 인사 %d개</item>
+        <item quantity="one">새로운 인사 %d개</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">최대 %s개의 사진을 선택할 수 있습니다.</item>
+        <item quantity="one">최대 %s개의 사진을 선택할 수 있습니다.</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">최대 %s개의 영상을 선택할 수 있습니다.</item>
+        <item quantity="one">최대 %s개의 영상을 선택할 수 있습니다.</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">최대 %s개 이미지 또는 영상 선택</item>
+        <item quantity="one">최대 %s 이미지 또는 영상 선택</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">실시간 위치 (%d)</item>
+        <item quantity="one">실시간 위치 (%d)</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="other">%d분 전</item>
+        <item quantity="one">%d분 전</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="other">%d시간 전</item>
+        <item quantity="one">%d시간 전</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d일 전</item>
+        <item quantity="one">%d일 전</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">%d명의 대화 상대 추가</item>
+        <item quantity="one">%d명의 대화 상대 추가</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">%s명의 대화 상대 편집</item>
+        <item quantity="one">%s명의 대화 상대 편집</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">%d명의 대화 상대 추가</item>
+        <item quantity="one">%d명의 대화 상대 추가</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">게시물 %d개</item>
+        <item quantity="one">게시물 %d개</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">새 메시지 %d개</item>
+        <item quantity="one">새 메시지 %d개</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">게시물 %d개</item>
+        <item quantity="one">게시물 %d개</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">%s초 남음</item>
+        <item quantity="one">%s초 남음</item>
+    </plurals>
+</resources>

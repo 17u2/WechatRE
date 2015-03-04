@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d tin nhắn chưa đọc</item>
+        <item quantity="one">%d tin nhắn chưa đọc</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%d tin nhắn chưa đọc</item>
+        <item quantity="one">%d tin nhắn chưa đọc</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Tab %2$d / %1$d</item>
+        <item quantity="zero">Tab 1 / %d</item>
+        <item quantity="one">Tab 2 / %d</item>
+        <item quantity="two">Tab 3 / %d</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Thoại: %d giây</item>
+        <item quantity="one">Thoại: %d giây</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">%1$d người bạn đã gửi %2$d tin nhắn cho bạn</item>
+        <item quantity="one">%1$d người bạn đã gửi %2$d tin nhắn cho bạn</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">[%d]</item>
+        <item quantity="one">[%d]</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">%d chai nhận được trả lời</item>
+        <item quantity="one">%d chai nhận được trả lời</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">SMS sẽ đến sau %d giây.</item>
+        <item quantity="one">SMS sẽ đến sau %d giây.</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%d giây còn lại</item>
+        <item quantity="one">%d giây còn lại</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d số liên lạc</item>
+        <item quantity="one">%d số liên lạc</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%d nhóm</item>
+        <item quantity="one">%d nhóm</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%d bạn bè trên WeChat</item>
+        <item quantity="one">%d bạn bè trên WeChat</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">Đã tìm thấy %d liên lạc</item>
+        <item quantity="one">Đã tìm thấy %d liên lạc</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">Đã thêm %d bạn bè</item>
+        <item quantity="one">Đã thêm %d bạn bè</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">Đã gửi %d lời mời</item>
+        <item quantity="one">Đã gửi %d lời mời</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Bạn đang mời %d bạn bè tham gia WeChat</item>
+        <item quantity="one">Bạn đang mời %d bạn bè tham gia WeChat</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%s người nhận:</item>
+        <item quantity="one">%s người nhận:</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">Bạn đang gửi tin nhắn cho %s người bạn:</item>
+        <item quantity="one">Bạn đang gửi tin nhắn cho %s người bạn:</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">%1$d tài liệu đính kèm (%2$s)</item>
+        <item quantity="one">%1$d tài liệu đính kèm (%2$s)</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%s tin nhắn</item>
+        <item quantity="one">%s tin nhắn</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">%d members</item>
+        <item quantity="one">%d member</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">%d lời chào mới</item>
+        <item quantity="one">%d lời chào mới</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">Có thể chọn tối đa %s ảnh</item>
+        <item quantity="one">Có thể chọn tối đa %s video</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">Có thể chọn tối đa %s ảnh</item>
+        <item quantity="one">Có thể chọn tối đa %s ảnh</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">Chọn tối đa %s ảnh hoặc video</item>
+        <item quantity="one">Chọn tối đa %s ảnh hoặc video</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">Vị trí thời gian thực (%d)</item>
+        <item quantity="one">Vị trí thời gian thực (%d)</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="other">%s persons</item>
+        <item quantity="one">%s person</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">%d phút trước</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="other">%d tiếng trước</item>
+        <item quantity="one">%d tiếng trước</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">%d ngày trước</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">%d số liên lạc đã được thêm</item>
+        <item quantity="one">%d số liên lạc đã được thêm</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">%s số liên lạc đã được chỉnh sửa</item>
+        <item quantity="one">%s số liên lạc đã được chỉnh sửa</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">%d số liên lạc đã được thêm</item>
+        <item quantity="one">%d số liên lạc đã được thêm</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">%d bài đăng</item>
+        <item quantity="one">%d bài đăng</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">%d tin nhắn mới</item>
+        <item quantity="one">%d tin nhắn mới</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">%d bài đăng</item>
+        <item quantity="one">%d bài đăng</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">%s giây còn lại</item>
+        <item quantity="one">%s giây còn lại</item>
+    </plurals>
+</resources>

@@ -1,0 +1,137 @@
+.class final Lcom/tencent/mm/ui/friend/at$b;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/tencent/mm/ui/friend/at;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = "b"
+.end annotation
+
+
+# instance fields
+.field faP:Ljava/lang/String;
+
+.field fnq:Landroid/widget/ImageView;
+
+.field hAg:Landroid/widget/ProgressBar;
+
+.field hqb:Landroid/widget/TextView;
+
+.field iPc:Landroid/widget/TextView;
+
+.field lLD:I
+
+.field lLE:Landroid/view/View;
+
+.field lLJ:Landroid/widget/TextView;
+
+.field lLK:Landroid/widget/TextView;
+
+.field final synthetic mhy:Lcom/tencent/mm/ui/friend/at;
+
+.field status:I
+
+
+# direct methods
+.method public constructor <init>(Lcom/tencent/mm/ui/friend/at;Landroid/view/View;)V
+    .locals 2
+
+    .prologue
+    .line 298
+    iput-object p1, p0, Lcom/tencent/mm/ui/friend/at$b;->mhy:Lcom/tencent/mm/ui/friend/at;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 300
+    sget v0, Lcom/tencent/mm/a$h;->bdv:I
+
+    invoke-virtual {p2, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object v0
+
+    check-cast v0, Landroid/widget/TextView;
+
+    iput-object v0, p0, Lcom/tencent/mm/ui/friend/at$b;->iPc:Landroid/widget/TextView;
+
+    .line 301
+    sget v0, Lcom/tencent/mm/a$h;->bdu:I
+
+    invoke-virtual {p2, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object v0
+
+    check-cast v0, Landroid/widget/ImageView;
+
+    iput-object v0, p0, Lcom/tencent/mm/ui/friend/at$b;->fnq:Landroid/widget/ImageView;
+
+    .line 302
+    sget v0, Lcom/tencent/mm/a$h;->bdw:I
+
+    invoke-virtual {p2, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object v0
+
+    check-cast v0, Landroid/widget/TextView;
+
+    iput-object v0, p0, Lcom/tencent/mm/ui/friend/at$b;->lLJ:Landroid/widget/TextView;
+
+    .line 303
+    sget v0, Lcom/tencent/mm/a$h;->bdz:I
+
+    invoke-virtual {p2, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object v0
+
+    check-cast v0, Landroid/widget/TextView;
+
+    iput-object v0, p0, Lcom/tencent/mm/ui/friend/at$b;->lLK:Landroid/widget/TextView;
+
+    .line 304
+    sget v0, Lcom/tencent/mm/a$h;->bdt:I
+
+    invoke-virtual {p2, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object v0
+
+    iput-object v0, p0, Lcom/tencent/mm/ui/friend/at$b;->lLE:Landroid/view/View;
+
+    .line 305
+    sget v0, Lcom/tencent/mm/a$h;->bdy:I
+
+    invoke-virtual {p2, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object v0
+
+    check-cast v0, Landroid/widget/TextView;
+
+    iput-object v0, p0, Lcom/tencent/mm/ui/friend/at$b;->hqb:Landroid/widget/TextView;
+
+    .line 306
+    sget v0, Lcom/tencent/mm/a$h;->bdx:I
+
+    invoke-virtual {p2, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object v0
+
+    check-cast v0, Landroid/widget/ProgressBar;
+
+    iput-object v0, p0, Lcom/tencent/mm/ui/friend/at$b;->hAg:Landroid/widget/ProgressBar;
+
+    .line 307
+    iget-object v0, p0, Lcom/tencent/mm/ui/friend/at$b;->lLE:Landroid/view/View;
+
+    new-instance v1, Lcom/tencent/mm/ui/friend/aw;
+
+    invoke-direct {v1, p0, p1}, Lcom/tencent/mm/ui/friend/aw;-><init>(Lcom/tencent/mm/ui/friend/at$b;Lcom/tencent/mm/ui/friend/at;)V
+
+    invoke-virtual {v0, v1}, Landroid/view/View;->setOnClickListener(Landroid/view/View$OnClickListener;)V
+
+    .line 316
+    return-void
+.end method

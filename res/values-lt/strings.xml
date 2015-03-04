@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">„Google Play“ paslaugų klaida</string>
+    <string name="b">Norint naudoti programą būtina įdiegti „Google Play“ paslaugas.</string>
+    <string name="c">Norint naudoti programą būtina atnaujinti „Google Play“ paslaugas.</string>
+    <string name="d">Norint naudoti programą būtina įgalinti „Google Play“ paslaugas.</string>
+    <string name="e">Užklausą pateikė „%1$s“</string>
+    <string name="f">Gauti „Google Play“ paslaugų</string>
+    <string name="g">Ši programa neveiks be „Google Play“ paslaugų, kurios neįdiegtos telefone.</string>
+    <string name="h">Ši programa neveiks be „Google Play“ paslaugų, kurios neįdiegtos planšetiniame kompiuteryje.</string>
+    <string name="i">Gauti „Google Play“ paslaugų</string>
+    <string name="j">Įgalinti „Google Play“ paslaugas</string>
+    <string name="k">Ši programa neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+    <string name="l">Įgal. „Google Play“ paslaugas</string>
+    <string name="m">Atnaujinti „Google Play“ paslaugas</string>
+    <string name="n">Ši programa neveiks, jei neatnaujinsite „Google Play“ paslaugų.</string>
+    <string name="o">Tinklo klaida</string>
+    <string name="p">Norint prisijungti prie „Google Play“ paslaugų reikia duomenų ryšio.</string>
+    <string name="q">Netinkama paskyra</string>
+    <string name="r">Nurodytos paskyros šiame įrenginyje nėra. Pasirinkite kitą paskyrą.</string>
+    <string name="s">Nežinoma „Google Play“ paslaugų problema.</string>
+    <string name="t">„Google Play“ paslaugos</string>
+    <string name="u">Jūsų įrenginys nepalaiko „Google Play“ paslaugų, kuriomis remiasi kai kurios programos. Jei reikia pagalbos, susisiekite su gamintoju.</string>
+    <string name="v">Įrenginyje nurodyta data neteisinga. Patikrinkite įrenginyje nurodytą datą.</string>
+    <string name="w">Atnaujinti</string>
+    <string name="x">Prisij.</string>
+    <string name="y">Prisij. naud. „Google“</string>
+</resources>
